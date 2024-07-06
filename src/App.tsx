@@ -1,5 +1,4 @@
 import './style.css';
-import img from './test.svg';
 
 function App() {
 	const speak = () => {
